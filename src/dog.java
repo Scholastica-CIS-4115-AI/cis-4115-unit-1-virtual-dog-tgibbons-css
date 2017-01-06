@@ -8,7 +8,9 @@
  * @version Spring 2017 version
  */
 public class dog {
-
+    
+// TOM made changes for the video
+    
     // ======================================================
     // Constants for the dog' state and actions
     // =====================================================
