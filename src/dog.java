@@ -243,7 +243,7 @@ public class dog {
             case WALK:
             case FEED:
             case IGNORE:
-                setState(States.ANGRY); 			// Currently the dog always stays angry, not matter what you do
+                setState(States.SLEEPY); 			// Currently the dog always stays sleepy, not matter what you do
                 break;
         }
     }
