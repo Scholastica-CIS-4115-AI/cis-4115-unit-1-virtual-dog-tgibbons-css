@@ -167,8 +167,9 @@ public class dog {
                 setState(States.HUNGRY); 			//  this makes the dog hungry
                 break;
             case IGNORE:							//dog is being ignored
-                setState(States.SAD); 				//   this makes the dog sad
+                setState(States.SLEEPY); 				//   this makes the dog sad
                 break;
+                
         }
     }
 
